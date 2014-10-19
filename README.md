@@ -1,6 +1,6 @@
 # Awesome R
 
-A curated list of awesome R frameworks, packages and software. Inspired by [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning).
+A curated list of awesome R frameworks, packages and software.
 
 - [Awesome R](#awesome-r)
     - [Integrated Development Environment](#integrated-development-environment)
